@@ -73,8 +73,8 @@
     },
     {
         "prompt": "En portion øllebrød, som er lavet på øl, rugbrød, sukker og vand, indeholder ",
-        "solution0": "lidt eller ingen alkohol",
-        "solution1": "alkohol svarende til 0,5 genstand",
+        "solution0": "lidt eller ingen alkohol.",
+        "solution1": "alkohol svarende til 0,5 genstand.",
         "label": 0,
         "n_words": 17,
         "id": 9
