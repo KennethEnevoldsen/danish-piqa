@@ -861,5 +861,14 @@
         "label": 0,
         "n_words": 0,
         "id": 107
-    }
+    },
+    {
+        "prompt": "Jeg tager smøret ud af køleskabet for at smøre på en blød bolle. Smøret er",
+        "solution0": "nemt at smøre ud.",
+        "solution1": "svært at smøre ud.",
+        "label": 1,
+        "n_words": 36,
+        "id": 108
+    },
+    
 ]
