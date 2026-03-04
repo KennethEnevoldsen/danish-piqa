@@ -177,8 +177,8 @@
     },
     {
         "prompt": "Hvordan fjerner man nemt skrællen fra et æble?",
-        "solution0": "Du tager en kartoffelskræller og skræller æblet ved at køre den henover siden på æblet indtil alt skrællet er væk",
-        "solution1": "Du tager et skrabejern og skræller æblet ved at køre den henover siden på æblet indtil alt skrællet er væk",
+        "solution0": "Du tager en kartoffelskræller og skræller æblet ved at køre den henover siden på æblet indtil alt skrællet er væk.",
+        "solution1": "Du tager et skrabejern og skræller æblet ved at køre den henover siden på æblet indtil alt skrællet er væk.",
         "label": 0,
         "n_words": 28,
         "id": 22
