@@ -361,8 +361,8 @@
     },
     {
         "prompt": "Må man godt køre scooter på en cykelsti?",
-        "solution0": "Ja, det må man gerne",
-        "solution1": "Nej, det må man ikke",
+        "solution0": "Ja, det må man gerne.",
+        "solution1": "Nej, det må man ikke.",
         "label": 0,
         "n_words": 13,
         "id": 45
