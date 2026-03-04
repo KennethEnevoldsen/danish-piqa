@@ -425,8 +425,8 @@
     },
     {
         "prompt": "Da hele familien skulle på den længe ventede sommerferie til Bornholm, så skulle de lige igennem",
-        "solution0": "Sverige",
-        "solution1": "Norge",
+        "solution0": "Sverige.",
+        "solution1": "Norge.",
         "label": 0,
         "n_words": 17,
         "id": 53
@@ -465,39 +465,40 @@
     },
     {
         "prompt": "Han vandede sine altanplanter, men så blev hans",
-        "solution0": "underbo pludselig våd",
-        "solution1": "overbo pludselig våd",
+        "solution0": "underbo pludselig våd.",
+        "solution1": "overbo pludselig våd.",
         "label": 0,
         "n_words": 11,
         "id": 58
     },
     {
         "prompt": "Det kan være ret svært for folk i storbyerne at forstå folk fra",
-        "solution0": "Sønderjylland",
-        "solution1": "Sjælland",
+        "solution0": "Sønderjylland.",
+        "solution1": "Sjælland.",
         "label": 0,
         "n_words": 14,
         "id": 59
     },
     {
         "prompt": "Hun var advokat og var derfor ret velhavende, så selvfølgelig havde hun et sommerhus i",
-        "solution0": "Nordsjælland",
-        "solution1": "Vestsjælland",
+        "solution0": "Nordsjælland.",
+        "solution1": "Vestsjælland.",
         "label": 0,
         "n_words": 16,
         "id": 60
     },
     {
-        "solution0": "rød plet på trøjen",
-        "solution1": "grøn plet på trøjen",
+        "solution0": "Til julefrokosten fik Fatima et glas gløgg, men kom til at spilde det så hun fik",
+        "solution0": "en rød plet på trøjen",
+        "solution1": "en grøn plet på trøjen",
         "label": 0,
         "n_words": 26,
         "id": 61
     },
     {
-        "prompt": "Imens han var igang med at bygge den nye overdækkede altan tabte Jakob en hammer lige ned på sin storetå og ",
-        "solution0": "det gjorde virkelig ondt",
-        "solution1": "det gjorde slet ikke ondt",
+        "prompt": "Imens han var igang med at bygge den nye overdækkede altan tabte Jakob en hammer lige ned på sin storetå og",
+        "solution0": "det gjorde virkelig ondt.",
+        "solution1": "det gjorde slet ikke ondt.",
         "label": 0,
         "n_words": 25,
         "id": 62
@@ -507,13 +508,16 @@
         "solution0": "brænde sin tunge",
         "solution1": "brænde sin hånd",
         "label": 0,
-        "n_words": 26,
+        "prompt": "Jens Peters hjemmelavet suppe er brandvarm, og derfor kan det være en rigtig god ide at vendte et par minutter for ikke at",
+        "solution0": "brænde sin tunge.",
+        "solution1": "brænde sin hånd.",
+        "label": 0,
         "id": 63
     },
     {
         "prompt": "Amin kan godt lide at hinke på legepladsen, hvor han selv har tegnet en bane med kridt. Han mister nogle gange balancen, hvis han rammer",
-        "solution0": "sten på kridtbanen",
-        "solution1": "streger på kridtbanen",
+        "solution0": "sten på kridtbanen.",
+        "solution1": "streger på kridtbanen.",
         "label": 0,
         "n_words": 28,
         "id": 64
@@ -523,7 +527,10 @@
         "solution0": "meget ked af det fordi det gjorde ondt",
         "solution1": "meget glad fordi det gjorde ondt",
         "label": 0,
-        "n_words": 27,
+        "prompt": "Lasse var til sidste skoledag for at samle karameller, men da han fik en karamel i hovedet blev han",
+        "solution0": "meget ked af det fordi det gjorde ondt.",
+        "solution1": "meget glad fordi det gjorde ondt.",
+        "label": 0,
         "id": 65
     },
     {
@@ -546,14 +553,15 @@
         "prompt": "Familien var på vej hjem fra et besøg hos bedstemor, da deres bil snittede en varevogn på en landevej, og det gjorde at de endte i",
         "solution0": "grøften",
         "solution1": "butikken",
-        "label": 0,
+        "solution0": "grøften.",
+        "solution1": "butikken.",
         "n_words": 27,
         "id": 68
     },
     {
         "prompt": "Bukserne blev helt våde, da han blev bange, fordi han",
-        "solution0": "tissede i bukserne",
-        "solution1": "tissede i toilet",
+        "solution0": "tissede i bukserne.",
+        "solution1": "tissede i toilet.",
         "label": 0,
         "n_words": 13,
         "id": 69
@@ -568,32 +576,32 @@
     },
     {
         "prompt": "Aya og Andreas elsker at suse ned af bjerget på ski, men i dag gik det for hurtigt. Andreas vred om på knæet, da en af hans ski sad fast i",
-        "solution0": "sneen",
-        "solution1": "græsset",
+        "solution0": "sneen.",
+        "solution1": "græsset.",
         "label": 0,
         "n_words": 32,
         "id": 71
     },
     {
         "prompt": "For at vinen i glasset ikke bliver varm af ens hænder bør man holde på",
-        "solution0": "stilken",
-        "solution1": "glasset",
+        "solution0": "stilken.",
+        "solution1": "glasset.",
         "label": 0,
         "n_words": 16,
         "id": 72
     },
     {
         "prompt": "Lone sad på lærerværelset og drak sin kop kaffe, men i en pludselig armbevægelse ramte hun koppen, og den ramte jorden, hvor den",
-        "solution0": "gik i stykker",
-        "solution1": "gav et hop",
+        "solution0": "gik i stykker.",
+        "solution1": "gav et hop.",
         "label": 0,
         "n_words": 26,
         "id": 73
     },
     {
         "prompt": "Et bildæk, fra en Mercedes er tungere end",
-        "solution0": "en skuetrækker",
-        "solution1": "et klaver",
+        "solution0": "en skuetrækker.",
+        "solution1": "et klaver.",
         "label": 0,
         "n_words": 10,
         "id": 74
@@ -608,24 +616,24 @@
     },
     {
         "prompt": "Hun blev rasende, da hun tabte tenniskampen, så hun smadrede ketcheren i jorden gentagne gange og den blev helt skæv. Den kan",
-        "solution0": "ikke fikses",
-        "solution1": "sagtens fikses",
+        "solution0": "ikke fikses.",
+        "solution1": "sagtens fikses.",
         "label": 0,
         "n_words": 24,
         "id": 76
     },
     {
         "prompt": "Hvis man sætter en gummiand i vand, så",
-        "solution0": "flyder den",
-        "solution1": "synker den",
+        "solution0": "flyder den.",
+        "solution1": "synker den.",
         "label": 0,
         "n_words": 10,
         "id": 77
     },
     {
         "prompt": "Jeg har netop fået en Kay Boyesen abe, den kan",
-        "solution0": "hænge i armen",
-        "solution1": "sige lyde",
+        "solution0": "hænge i armen. Jeg fik den i gave til min fødselsdag.",
+        "solution1": "sige lyde. Jeg fik den i gave til min fødselsdag.",
         "label": 0,
         "n_words": 13,
         "id": 78
@@ -648,8 +656,8 @@
     },
     {
         "prompt": "Hvis min mad er meget vandig, og jeg vil varme det i mikroovnen, skal jeg passe på, at det ikke overopheder, fordi det kan pludseligt",
-        "solution0": "eksplodere",
-        "solution1": "udtørre",
+        "solution0": "eksplodere.",
+        "solution1": "udtørre.",
         "label": 0,
         "n_words": 26,
         "id": 81
@@ -658,30 +666,31 @@
         "prompt": "For at få det sidste aioli ud skal jeg",
         "solution0": "ryste og banke kraftigt på plastikdutten",
         "solution1": "ryste og banke blidt på plastikdutten",
-        "label": 0,
+        "solution0": "ryste og banke kraftigt på plastikdutten.",
+        "solution1": "ryste og banke blidt på plastikdutten.",
         "n_words": 15,
         "id": 82
     },
     {
         "prompt": "Sana har købt knæklys til nytår. De begynder først at lyse efter at de",
-        "solution0": "er blevet knækket",
-        "solution1": "er blevet kolde",
+        "solution0": "er blevet knækket.",
+        "solution1": "er blevet kolde.",
         "label": 0,
         "n_words": 17,
         "id": 83
     },
     {
         "prompt": "Børnene må ikke lege med fyrværkeri, men de må lege med knaldperler. Når børnene kaster knaldperler ned i jorden, så",
-        "solution0": "siger de en høj lyd",
-        "solution1": "siger de ingen lyd",
+        "solution0": "siger de en høj lyd.",
+        "solution1": "siger de ingen lyd.",
         "label": 0,
         "n_words": 25,
         "id": 84
     },
     {
-        "prompt": "For at lave biksemad, skal man bruge løg, kogte kartofler, stegt kød og noget fedtstof til at stege det hele i fx smør eller margarine.",
-        "solution0": "",
-        "solution1": "",
+        "prompt": "For at lave biksemad, skal man bruge løg, kogte kartofler, stegt kød",
+        "solution0": "og noget fedtstof til at stege det hele i fx smør eller margarine.",
+        "solution1": "og noget fedtstof til at stege det hele i fx smør eller vaseline.",
         "label": 1,
         "n_words": 25,
         "id": 85
@@ -705,7 +714,7 @@
     {
         "prompt": "Hvis man beskriver en persons hår som at være kommunefarvet, så er hårfarven",
         "solution0": "lysebrunt, men ikke helt blond.",
-        "solution1": "rødbrunt, men ikke helt blond",
+        "solution1": "rødbrunt, men ikke helt blond.",
         "label": 0,
         "n_words": 18,
         "id": 88
@@ -783,7 +792,7 @@
         "id": 97
     },
     {
-        "prompt": "Man bager fødselsdagsboller ved at først smelte smøret og hælde det i en skål. Derefter tilsætter man mælk og gæren samt sukker og salt. Det hele røres sammen med melet.",
+        "prompt": "Man bager fødselsdagsboller ved først at smelte smøret og hælde det i en skål. Derefter tilsætter man mælk og gæren samt sukker og salt. Det hele røres sammen med melet.",
         "solution0": "Nu skal dejen hæve et lunt sted i ca. 45 min før dejen formes til boller.",
         "solution1": "Nu skal dejen hæve et koldt sted i ca. 45 min før dejen formes til boller",
         "label": 0,
