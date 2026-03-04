@@ -837,5 +837,29 @@
         "label": 0,
         "n_words": 24,
         "id": 104
+    },
+    {
+        "prompt": "Når jeg er færdig med at drikke min øl, smider jeg den i",
+        "solution0": "skraldespanden, så den kan blive genbrugt.",
+        "solution1": "pantautomaten, så den kan blive genbrugt.",
+        "label": 1,
+        "n_words": 0,
+        "id": 105
+    },
+    {
+        "prompt": "Det er søndag eftermiddag og jeg vil gerne handle ind til aftensmad. Jeg går ned til det lokale supermarked og ser at",
+        "solution0": "supermarkedet er åbent.",
+        "solution1": "supermarkedet er lukket.",
+        "label": 0,
+        "n_words": 0,
+        "id": 106
+    },
+    {
+        "prompt": "Jeg har modtaget en pakke, og skal nu til at smide papkassen i genbrugscontaineren. Derfor",
+        "solution0": "flader jeg den ud, og smider den i containeren.",
+        "solution1": "lader jeg den være samlet, og smider den i containeren.",
+        "label": 0,
+        "n_words": 0,
+        "id": 107
     }
 ]
