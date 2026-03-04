@@ -313,8 +313,8 @@
     },
     {
         "prompt": "Der er 50 meter til den nærmeste bilvask, så",
-        "solution0": "jeg kører derhen",
-        "solution1": "jeg går derhen",
+        "solution0": "jeg kører derhen.",
+        "solution1": "jeg går derhen.",
         "label": 0,
         "n_words": 12,
         "id": 39
