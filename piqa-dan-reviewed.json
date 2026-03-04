@@ -56,9 +56,9 @@
         "id": 6
     },
     {
-        "prompt": "En frikadelle, eksempel serveret sammen med kartofler og brun sovs, er cirka samme størrelse som",
-        "solution0": "en kartoffel",
-        "solution1": "et æble",
+        "prompt": "En frikadelle, eksempelvis serveret sammen med kartofler, surt, brun sovs og lidt grønt, er cirka samme størrelse som",
+        "solution0": "en kartoffel.",
+        "solution1": "et æble.",
         "label": 0,
         "n_words": 17,
         "id": 7
