@@ -867,8 +867,15 @@
         "solution0": "nemt at smøre ud.",
         "solution1": "svært at smøre ud.",
         "label": 1,
-        "n_words": 36,
+        "n_words": 0,
         "id": 108
     },
-    
+    {
+        "prompt": "Jeg skal have vasket min bil, men bilvasken er kun 100m nede af vejen, så jeg",
+        "solution0": "går ned til bilvasken.",
+        "solution1": "kører ned til bilvasken.",
+        "label": 1,
+        "n_words": 0,
+        "id": 109
+    }
 ]
