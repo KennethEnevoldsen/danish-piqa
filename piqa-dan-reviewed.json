@@ -97,8 +97,8 @@
     },
     {
         "prompt": "Hvad skal der til for at lave eller tilberede en portion koldskål?",
-        "solution0": "vanilje, sukker, æggeblommer, kærnemælk, ymer, citron",
-        "solution1": "vanilje, sukker, æggeblommer, kærnemælk, mel, citron",
+        "solution0": "vanilje, sukker, æggeblommer, kærnemælk, ymer, citron.",
+        "solution1": "vanilje, sukker, æggeblommer, kærnemælk, mel, citron.",
         "label": 0,
         "n_words": 18,
         "id": 12
