@@ -662,7 +662,7 @@
     "id": 113
   },
   {
-    "prompt": "På mit arbejde har jeg fundet en pølsetaske ude i køkkenet.Jeg ved ikke hvis det er, men jeg beslutter mig for at undersøge den nærmere.",
+    "prompt": "På mit arbejde har jeg fundet en pølsetaske ude i køkkenet. Jeg ved ikke hvis det er, men jeg beslutter mig for at undersøge den nærmere.",
     "solution0": "Når jeg stikker min hånd i tasken føles den normal.",
     "solution1": "Når jeg stikker min hånd i tasken føles den kold.",
     "label": 0,
