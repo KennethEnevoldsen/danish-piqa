@@ -385,8 +385,8 @@
     },
     {
         "prompt": "Når det bliver vinter, så er der mange",
-        "solution0": "bilejere, som skal skifte dæk så at de ikke kommer galt afsted",
-        "solution1": "cykelejere, som skal skifte dæk så at de ikke kommer galt afsted",
+        "solution0": "bilejere, som skal skifte dæk så at de ikke kommer galt afsted.",
+        "solution1": "cykelejere, som skal skifte dæk så at de ikke kommer galt afsted.",
         "label": 0,
         "n_words": 20,
         "id": 48
