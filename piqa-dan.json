@@ -636,5 +636,181 @@
     "label": 0,
     "n_words": 18,
     "id": 79
+  },
+  {
+    "prompt": "Til en fest i det lokale forsamlingshus rejser onkel Jens sig op for at holde en tale. I sin ivrighed under talen vifter han frem og tilbage med sine hænder, hvori han i den ene holder på en bajerflaske.",
+    "solution0": "Øllet i flasken skulvper med bevægelserne.",
+    "solution1": "Øllet i flasken vibrerer med bevægelserne.",
+    "label": 0,
+    "n_words": 45,
+    "id": 111
+  },
+  {
+    "prompt": "Ude i haven står en sort balje på et bord. Jeg tager haveslangen for at hælde vand i baljen. Da jeg gør det så",
+    "solution0": "løber vandet ned og bliver i baljen.",
+    "solution1": "løber vandet ned og videre ud af baljen.",
+    "label": 0,
+    "n_words": 31,
+    "id": 112
+  },
+  {
+    "prompt": "En person er i gang med at lave mad i køkkenet. Han har en kande med bouillon som han hælder ned i et dørslag.",
+    "solution0": "Bouillonen løber ned og bliver i dørslaget.",
+    "solution1": "Bouillonen løber ned og videre ud af dørslaget.",
+    "label": 1,
+    "n_words": 31,
+    "id": 113
+  },
+  {
+    "prompt": "På mit arbejde har jeg fundet en pølsetaske ude i køkkenet. Jeg ved ikke hvis det er, men jeg beslutter mig for at undersøge den nærmere.",
+    "solution0": "Når jeg stikker min hånd i tasken føles den normal.",
+    "solution1": "Når jeg stikker min hånd i tasken føles den kold.",
+    "label": 0,
+    "n_words": 35,
+    "id": 114
+  },
+  {
+    "prompt": "Der er nogen som har lavet en gammeldags æblekage til mig. De har sagt at den lige er færdig og jeg kan finde den",
+    "solution0": "i ovnen.",
+    "solution1": "i køleskabet.",
+    "label": 1,
+    "n_words": 26,
+    "id": 115
+  },
+  {
+    "prompt": "Når man skal lave tebirkes, eller københavnerbirkes, skal man gøre det følgende. Først skal man lave en dej som rulles ud i et rektangel. Dejen skæres ud på langs, så man har to strimler af dej.",
+    "solution0": "Birkes drysses på toppen. Hver strimmel skal foldes hen over sig selv til en pølse. Med en kagerulle rulles dejen flad. Skær 6m brede stykker ud. Disse bages efter de har hævet.",
+    "solution1": "Hver strimmel skal foldes hen over sig selv til en pølse. Birkes drysses på toppen. Med en kagerulle rulles dejen flad. Skær 6m brede stykker ud. Disse bages efter de har hævet.",
+    "label": 1,
+    "n_words": 66,
+    "id": 116
+  },
+  {
+    "prompt": "Da jeg kom hjem fra skole stod en karton tykmælk på køkkenbordet. Den havde stået der siden i morges. Jeg mærkede på den og",
+    "solution0": "den var samme temperatur som rummet.",
+    "solution1": "den var en koldere temperatur end rummet.",
+    "label": 0,
+    "n_words": 30,
+    "id": 117
+  },
+  {
+    "prompt": "I en opskrift på vaniljekrans står der at man skal",
+    "solution0": "Putte dejen i en sprøjtepose, bage kagerne i 10-12 minutter og straks sprøjte dejen ud til kranse.",
+    "solution1": "Putte dejen i en sprøjtepose, straks sprøjte dejen ud til kranse og bage kagerne i 10-12 minutter.",
+    "label": 1,
+    "n_words": 27,
+    "id": 118
+  },
+  {
+    "prompt": "I min hånd har jeg en håndfuld vårsæd som jeg har fået af en landmand. Når jeg åbner hånden og vender den på hovedet, så",
+    "solution0": "Drysser vårsæden ned.",
+    "solution1": "Drypper vårsæden ned.",
+    "label": 0,
+    "n_words": 28,
+    "id": 119
+  },
+  {
+    "prompt": "En sparebøsse står på en kommode inde på et soveværelse. En pige samler den op og ryster den. Hvad sker der?",
+    "solution0": "Den rasler fordi den ikke er tom.",
+    "solution1": "Den skummer fordi den ikke er tom.",
+    "label": 0,
+    "n_words": 28,
+    "id": 120
+  },
+  {
+    "prompt": "Jeg skal til at lave noget råkost med hvidkål og gulerødder. Efter at have brugt et råkostjern til at behandle grøntsagerne, så er de blevet",
+    "solution0": "skåret i tynde strimler.",
+    "solution1": "skåret i tynde skiver.",
+    "label": 0,
+    "n_words": 29,
+    "id": 121
+  },
+  {
+    "prompt": "Silas sidder i kantinen og der er meget larm. Han bliver så forstyrret at han vælger at bruge sine hørebøffer.",
+    "solution0": "Når han tager hørebøfferne på, så klistrer de på ørerne.",
+    "solution1": "Når han tager hørebøfferne på, så dækker de for ørerne.",
+    "label": 1,
+    "n_words": 30,
+    "id": 122
+  },
+  {
+    "prompt": "En håndværker står foran en dør og arbejder. Han har en svensknøgle siddende i sit arbejdsbælte. Da han skal bruge den, taber han den på gulvet.",
+    "solution0": "Der lød et ordentligt dump.",
+    "solution1": "Der lød en lille raslen.",
+    "label": 0,
+    "n_words": 31,
+    "id": 123
+  },
+  {
+    "prompt": "Min veninde Lærke har fået sig sådan en smart anorak som er dejlig varm og har gode lommer.",
+    "solution0": "Man tager den på ved at trække den over hovedet.",
+    "solution1": "Man tager den på ved at trække ned i lynlåsen.",
+    "label": 0,
+    "n_words": 28,
+    "id": 124
+  },
+  {
+    "prompt": "I den Danske Folkekirke bærer præsterne præstekjole når de holder gudstjeneste. De er lette at genkende da præstekjolen altid er sort og kraven har",
+    "solution0": "tætte folder.",
+    "solution1": "ingen folder.",
+    "label": 0,
+    "n_words": 26,
+    "id": 125
+  },
+  {
+    "prompt": "Inde i på sit kontor sidder Markus og læser op til eksamen. Han er sulten og tager derfor sin frokost op. Da han tager en bid af sit knækbrød",
+    "solution0": "så knaser det.",
+    "solution1": "så slubrer det.",
+    "label": 0,
+    "n_words": 32,
+    "id": 126
+  },
+  {
+    "prompt": "På min ferie tog jeg på en kort sørejse fra Aarhus til Anholt. Vandet var så klart at jeg ikke kunne lade være med at smage på det.",
+    "solution0": "Det smagte dog saltet.",
+    "solution1": "Det smagte dog friskt.",
+    "label": 0,
+    "n_words": 32,
+    "id": 127
+  },
+  {
+    "prompt": "Det er en solrig dag og jeg vil gerne gå en tur med min hund. Jeg har planer om at gå gennem et parcelhuskvarter.",
+    "solution0": "Her er husene høje nok til at dække for solen.",
+    "solution1": "Her er husene for lave til at dække for solen.",
+    "label": 1,
+    "n_words": 35,
+    "id": 128
+  },
+  {
+    "prompt": "På en væg hænger der en lille amagerhylde. Den er fyldt med ting, men der er måske plads til lidt mere. Når jeg stiller min fine brevvægt på den, så",
+    "solution0": "bliver hylden hængende på væggen.",
+    "solution1": "falder hylden ned fra væggen.",
+    "label": 0,
+    "n_words": 35,
+    "id": 129
+  },
+  {
+    "prompt": "Et lille barn leger på vejen. Naboens hund har sneget sig ud af haven gennem et lille hul i hækken. Barnet prøver at lege med hunden, men den skambider barnet på hånden.",
+    "solution0": "Nu bløder hånden voldsomt.",
+    "solution1": "Nu bløder hånden lidt.",
+    "label": 0,
+    "n_words": 36,
+    "id": 130
+  },
+  {
+    "prompt": "I et lille bageri er en bagerlærling i gang med at bage en portion peberkager. Han putter en hel skål peber i dejen i stedet for en spiseske.",
+    "solution0": "Nu er dejen for våd.",
+    "solution1": "Nu er dejen for tør.",
+    "label": 1,
+    "n_words": 33,
+    "id": 131
+  },
+  {
+    "prompt": "Jeg er i gang med at lave noget pynt ud af noget pap og papir. Jeg stiller saksen på højkant og den",
+    "solution0": "bliver stående sådan på bordet.",
+    "solution1": "vælter ned på bordet.",
+    "label": 1,
+    "n_words": 27,
+    "id": 132
   }
 ]
