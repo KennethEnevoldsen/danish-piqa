@@ -417,8 +417,8 @@
     },
     {
         "prompt": "Jeg tager fra København til Aarhus i morgen, og det passer lige med at jeg kan tage en lille frokostpause i",
-        "solution0": "Odense på vejen",
-        "solution1": "Aalborg på vejen",
+        "solution0": "Odense på vejen.",
+        "solution1": "Aalborg på vejen.",
         "label": 0,
         "n_words": 24,
         "id": 52
