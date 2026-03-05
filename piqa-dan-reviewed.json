@@ -568,8 +568,8 @@
     },
     {
         "prompt": "Jeg har en ven, som jeg tænker må være ret stærk. Hun går ofte i fitness og hun kan løfte, hvad der svarer til",
-        "solution0": "et køleskab",
-        "solution1": "en æggebakke",
+        "solution0": "et køleskab.",
+        "solution1": "en hammer.",
         "label": 0,
         "n_words": 26,
         "id": 70
