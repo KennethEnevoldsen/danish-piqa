@@ -877,5 +877,13 @@
         "label": 1,
         "n_words": 0,
         "id": 109
-    }
+    },
+    {
+        "prompt": "Det er en meget kold vintermorgen i januar, og jeg vil køre i bil på arbejde. Inden jeg kører",
+        "solution0": "fjerner jeg is fra forruden med varmt vand.",
+        "solution1": "fjerner jeg is fra forruden med en isskraber.",
+        "label": 1,
+        "n_words": 0,
+        "id": 110
+    },
 ]
