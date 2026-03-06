@@ -152,14 +152,6 @@
     "id": 18
   },
   {
-    "prompt": "Min veninde og jeg har planer om at tage på café i næste uge. Kan jeg godt stille barnevognen med barn udenfor, mens vi drikker kaffe?",
-    "solution0": "Det er socialt acceptabelt at efterlade sit barn i barnevognen uden for en café, når man går ind og drikker kaffe.",
-    "solution1": "Det er socialt uacceptabelt at efterlade sit barn i barnevognen uden for en café, når man går ind og drikker kaffe.",
-    "label": 0,
-    "n_words": 47,
-    "id": 19
-  },
-  {
     "prompt": "Hvordan fjerner man nemt skrællen fra et æble?",
     "solution0": "Du tager en kartoffelskræller og skræller æblet ved at køre den henover siden på æblet indtil alt skrællet er væk.",
     "solution1": "Du tager et skrabejern og skræller æblet ved at køre den henover siden på æblet indtil alt skrællet er væk.",
@@ -240,14 +232,6 @@
     "id": 29
   },
   {
-    "prompt": "Til fester er der typisk øllene",
-    "solution0": "Carlsberg og Tuborg på bordene.",
-    "solution1": "Bud Light og Heineken på bordene.",
-    "label": 0,
-    "n_words": 11,
-    "id": 30
-  },
-  {
     "prompt": "Jeg så i vejrudsigten, at det bliver stiv kuling i dag, så det er",
     "solution0": "dårligt cykelvejr.",
     "solution1": "perfekt cykelvejr!",
@@ -320,14 +304,6 @@
     "id": 39
   },
   {
-    "prompt": "Til nytårsaften skal de fleste se",
-    "solution0": "90-årsfødselsdagen",
-    "solution1": "50-årsfødselsdagen",
-    "label": 0,
-    "n_words": 7,
-    "id": 40
-  },
-  {
     "prompt": "At gå til tandlægen er",
     "solution0": "dyrt",
     "solution1": "gratis",
@@ -342,14 +318,6 @@
     "label": 0,
     "n_words": 11,
     "id": 42
-  },
-  {
-    "prompt": "Det kan være ret svært for folk i storbyerne at forstå folk fra",
-    "solution0": "Sønderjylland.",
-    "solution1": "Sjælland.",
-    "label": 0,
-    "n_words": 14,
-    "id": 43
   },
   {
     "prompt": "Hun var advokat og var derfor ret velhavende, så selvfølgelig havde hun et sommerhus i",
@@ -606,14 +574,6 @@
     "id": 75
   },
   {
-    "prompt": "Jeg skal hente mit barn i børnehaven på vej hjem fra arbejde. Jeg henter derfor mit barn omkring klokken",
-    "solution0": "18.30.",
-    "solution1": "16.30",
-    "label": 1,
-    "n_words": 20,
-    "id": 76
-  },
-  {
     "prompt": "En familie på fire skal ud og spise på restaurant. De ankommer til restauranten cirka kl. 22 og har ikke booket et bord. De får at vide at de ikke kan få et bord fordi",
     "solution0": "de kommer for sent.",
     "solution1": "de kommer for tidligt.",
@@ -628,14 +588,6 @@
     "label": 1,
     "n_words": 36,
     "id": 78
-  },
-  {
-    "prompt": "Hvis jeg bliver inviteret over til en middag, hvad tid skal jeg så dukke op?",
-    "solution0": "Omkring kl. 18.",
-    "solution1": "Omkring kl 12.",
-    "label": 0,
-    "n_words": 18,
-    "id": 79
   },
   {
     "prompt": "Til en fest i det lokale forsamlingshus rejser onkel Jens sig op for at holde en tale. I sin ivrighed under talen vifter han frem og tilbage med sine hænder, hvori han i den ene holder på en bajerflaske.",
