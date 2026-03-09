@@ -17,22 +17,22 @@
   },
   {
     "prompt": "Hvordan får jeg mandler uden skræl på?",
-    "solution0": "Hæld den i kogende vand i ca. 10 minutter og hæld derefter vandet fra. Lad dem køle af i 2 minutter. Herefter kan skrællen smuttes af med fingrene",
-    "solution1": "Hæld den i kogende vand i ca. 10 minutter og hæld derefter vandet fra. Lad dem køle af i 2 minutter. Herefter kan skrællen skrabes af med en kniv",
+    "solution0": "Hæld mandlerne i kogende vand i ca. 10 minutter og hæld derefter vandet fra. Lad dem køle af i 2 minutter. Herefter kan skrællen smuttes af med fingrene",
+    "solution1": "Hæld mandlerne i kogende vand i ca. 10 minutter og hæld derefter vandet fra. Lad dem køle af i 2 minutter. Herefter kan skrællen skrabes af med en kniv",
     "label": 0,
     "n_words": 35,
     "id": 2
   },
   {
     "prompt": "Når man tager en bybus i en af de mange byer i landet, hvad er så det mest normale at gøre når man kommer ind i en halvfyldt bus?",
-    "solution0": "Sætte sig på et sæde ved en anden",
-    "solution1": "Sætte sig på et sæde alene",
+    "solution0": "Sætte sig på et sæde ved en anden.",
+    "solution1": "Sætte sig på et sæde alene.",
     "label": 1,
     "n_words": 37,
     "id": 3
   },
   {
-    "prompt": "Hvis man netop har købt et højtbelagt smørrebrød og vender det på hovedet så",
+    "prompt": "Hvis man netop har købt et højtbelagt smørrebrød og vender det på hovedet, så",
     "solution0": "falder på pålægget af.",
     "solution1": "bliver pålægget siddende.",
     "label": 0,
@@ -40,7 +40,7 @@
     "id": 4
   },
   {
-    "prompt": "Hvis jeg har smurt mig en rugbrødsmad med leverpostej og derefter vender den på hovedet så",
+    "prompt": "Hvis jeg har smurt mig en rugbrødsmad med leverpostej og derefter vender den på hovedet, så",
     "solution0": "falder på pålægget af.",
     "solution1": "bliver pålægget siddende.",
     "label": 1,
@@ -48,7 +48,7 @@
     "id": 5
   },
   {
-    "prompt": "Hvis jeg gerne vil invitere til en stor fest med masser af mennesker så skal jeg sende invitationen som",
+    "prompt": "Hvis jeg gerne vil invitere til en stor fest med masser af mennesker, så skal jeg sende invitationen som",
     "solution0": "et brev.",
     "solution1": "en pakke.",
     "label": 0,
@@ -65,14 +65,14 @@
   },
   {
     "prompt": "Efter at have lavet en lagkage, så kan du se at den er færdig ved at",
-    "solution0": "sætte en tandstik i den og se om den er færdig",
+    "solution0": "sætte en tandstik i den og se om den er færdig.",
     "solution1": "ved at kigge på den og se at den er færdig.",
     "label": 1,
     "n_words": 27,
     "id": 8
   },
   {
-    "prompt": "En portion øllebrød, som er lavet på øl, rugbrød, sukker og vand, indeholder ",
+    "prompt": "En portion øllebrød som er lavet på øl, rugbrød, sukker og vand, indeholder ",
     "solution0": "lidt eller ingen alkohol.",
     "solution1": "alkohol svarende til 0,5 genstand.",
     "label": 0,
@@ -88,7 +88,7 @@
     "id": 10
   },
   {
-    "prompt": "Hvis du sætter en opvaskemaskine til, er det vigtigt, at du sikrer dig, at den står stabilt, og derefter",
+    "prompt": "Hvis du sætter en opvaskemaskine til, er det vigtigt at du sikrer dig at den står stabilt, og derefter",
     "solution0": "sætter afløbet til, tænder for vandet og derefter skruer tilførselsslangen på.",
     "solution1": "sætter afløbet til, skruer tilførselsslangen på og derefter tænder for vandet.",
     "label": 1,
@@ -97,30 +97,30 @@
   },
   {
     "prompt": "Hvad skal der til for at lave eller tilberede en portion koldskål?",
-    "solution0": "vanilje, sukker, æggeblommer, kærnemælk, ymer, citron.",
-    "solution1": "vanilje, sukker, æggeblommer, kærnemælk, mel, citron.",
+    "solution0": "Vanilje, sukker, æggeblommer, kærnemælk, ymer og citron.",
+    "solution1": "Vanilje, sukker, æggeblommer, kærnemælk, mel og citron.",
     "label": 0,
-    "n_words": 18,
+    "n_words": 19,
     "id": 12
   },
   {
-    "prompt": "Vil gerne komme hurtigere ned ad kælkebakken end mine venner. Hvad kan jeg gøre for at min kælk er hurtigere?",
+    "prompt": "Jeg vil gerne komme hurtigere ned ad kælkebakken end mine venner. Hvad kan jeg gøre for at min kælk er hurtigere?",
     "solution0": "Gnid mederne eller undersiden af kælken med stearin.",
     "solution1": "Gnid mederne eller undersiden af kælken med olie.",
     "label": 0,
-    "n_words": 28,
+    "n_words": 29,
     "id": 13
   },
   {
-    "prompt": "Når man eksempelvis til jul laver flæskesteg er det er vigtigt at sikre sig at",
+    "prompt": "Når man eksempelvis til jul laver flæskesteg, er det vigtigt at sikre sig at",
     "solution0": "sværene er sprøde ellers er den ikke helt god.",
     "solution1": "kødet er mørt ellers er den ikke helt god.",
     "label": 0,
-    "n_words": 24,
+    "n_words": 23,
     "id": 14
   },
   {
-    "prompt": "Hvis man bommer - altså når den tunge tværstang nederst på sejlet svinger til siden i et ‘sving’ - under sejlads er det vigtig at man",
+    "prompt": "Hvis man bommer - altså når den tunge tværstang nederst på sejlet svinger til siden i et ‘sving’ - under sejlads, er det vigtig at man",
     "solution0": "dukker sig under bommen, så man ikke bliver ramt.",
     "solution1": "hopper henover bommen, så man ikke bliver ramt.",
     "label": 0,
@@ -129,8 +129,8 @@
   },
   {
     "prompt": "Hvordan viser man at man gerne vil bremse på en cykel?",
-    "solution0": "man holder den ene hånd op, for at signalere at man har tænkt sig at stoppe.",
-    "solution1": "man holder den ene hånd foran sig, for at signalere at man har tænkt sig at stoppe.",
+    "solution0": "Man holder den ene hånd op, for at signalere at man har tænkt sig at stoppe.",
+    "solution1": "Man holder den ene hånd foran sig, for at signalere at man har tænkt sig at stoppe.",
     "label": 0,
     "n_words": 27,
     "id": 16
@@ -145,8 +145,8 @@
   },
   {
     "prompt": "Hvordan sikrer du dig mod at brun farin ikke bliver hårdt og klumper?",
-    "solution0": "Opbevar det i en tætlukket bøtte eller pose med et stykke rugbrød. Det mugner ikke, og du kan lægge sukkeret i lang tid.",
-    "solution1": "Opbevar det i en tætlukket bøtte eller pose med et stof. Det mugner ikke, og du kan lægge sukkeret i lang tid.",
+    "solution0": "Opbevar det i en tætlukket bøtte eller pose med et stykke rugbrød. Det mugner ikke, og du kan lagre sukkeret i lang tid.",
+    "solution1": "Opbevar det i en tætlukket bøtte eller pose med et stof. Det mugner ikke, og du kan lagre sukkeret i lang tid.",
     "label": 0,
     "n_words": 36,
     "id": 18
@@ -161,8 +161,8 @@
   },
   {
     "prompt": "Hvis jeg skærer et æble over i to stykker og efterlader det på køkkenbordet",
-    "solution0": "så bliver det brunt efter et stykke tid uden at have været dækket.",
-    "solution1": "så bliver det rødt efter et stykke tid uden at have været dækket.",
+    "solution0": "så bliver det brunt efter et stykke tid uden at have været tildækket.",
+    "solution1": "så bliver det rødt efter et stykke tid uden at have været tildækket.",
     "label": 0,
     "n_words": 27,
     "id": 20
@@ -192,7 +192,7 @@
     "id": 23
   },
   {
-    "prompt": "Hvis jeg sparker hårdt til en fodbold mens den er våd så",
+    "prompt": "Hvis jeg sparker hårdt til en fodbold mens den er våd, så",
     "solution0": "flyver den langt væk.",
     "solution1": "rykker den sig ikke.",
     "label": 0,
@@ -208,15 +208,15 @@
     "id": 25
   },
   {
-    "prompt": "Hvis man får en kæmpe vælgerlussing så",
-    "solution0": "Får man en rød kind. Det er aldrig en fed oplevelse.",
-    "solution1": "Får man færre stemmer. Det er aldrig en fed oplevelse.",
+    "prompt": "Hvis man får en kæmpe vælgerlussing, så",
+    "solution0": "får man en rød kind. Det er aldrig en fed oplevelse.",
+    "solution1": "får man færre stemmer. Det er aldrig en fed oplevelse.",
     "label": 0,
     "n_words": 18,
     "id": 26
   },
   {
-    "prompt": "Hvis ens lommelygte går ud en sommernat så",
+    "prompt": "Hvis ens lommelygte går ud en sommernat, så",
     "solution0": "kan man stadig se.",
     "solution1": "kan man ikke se.",
     "label": 0,
@@ -232,7 +232,7 @@
     "id": 28
   },
   {
-    "prompt": "Jeg så i vejrudsigten, at det bliver stiv kuling i dag, så det er",
+    "prompt": "Jeg så i vejrudsigten at det bliver stiv kuling i dag, så det er",
     "solution0": "dårligt cykelvejr.",
     "solution1": "perfekt cykelvejr!",
     "label": 0,
@@ -248,7 +248,7 @@
     "id": 30
   },
   {
-    "prompt": "I går, efter jeg havde spist frokost, cyklede jeg lige en lille tur hjem fra Næstved til",
+    "prompt": "I går efter jeg havde spist frokost, cyklede jeg lige en lille tur hjem fra Næstved til",
     "solution0": "Ringsted.",
     "solution1": "Skagen.",
     "label": 0,
@@ -265,14 +265,14 @@
   },
   {
     "prompt": "Når det bliver vinter, så er der mange",
-    "solution0": "bilejere, som skal skifte dæk så at de ikke kommer galt afsted.",
-    "solution1": "cykelejere, som skal skifte dæk så at de ikke kommer galt afsted.",
+    "solution0": "bilejere som skal skifte dæk, så de ikke kommer galt afsted.",
+    "solution1": "cykelejere som skal skifte dæk, så de ikke kommer galt afsted.",
     "label": 0,
-    "n_words": 20,
+    "n_words": 19,
     "id": 33
   },
   {
-    "prompt": "I løbet af natten har det sneet en hel masse, så om morgenen efter at have set tv-avisen beslutter Hans sig for at",
+    "prompt": "I løbet af natten har det sneet en hel masse, så om morgenen efter at have set tv-avisen, beslutter Hans sig for at",
     "solution0": "tage toget på arbejde.",
     "solution1": "tage cyklen på arbejde.",
     "label": 0,
@@ -305,8 +305,8 @@
   },
   {
     "prompt": "At gå til tandlægen er",
-    "solution0": "dyrt",
-    "solution1": "gratis",
+    "solution0": "dyrt.",
+    "solution1": "gratis.",
     "label": 0,
     "n_words": 6,
     "id": 38
@@ -328,7 +328,7 @@
     "id": 40
   },
   {
-    "prompt": "Til julefrokosten fik Fatima et glas gløgg, men kom til at spilde det så hun fik",
+    "prompt": "Til julefrokosten fik Fatima et glas gløgg men kom til at spilde det, så hun fik",
     "solution0": "en rød plet på trøjen.",
     "solution1": "en grøn plet på trøjen.",
     "label": 0,
@@ -336,7 +336,7 @@
     "id": 41
   },
   {
-    "prompt": "Imens han var igang med at bygge den nye overdækkede altan tabte Jakob en hammer lige ned på sin storetå og",
+    "prompt": "Imens han var igang med at bygge den nye overdækkede altan, tabte Jakob en hammer lige ned på sin storetå og",
     "solution0": "det gjorde virkelig ondt.",
     "solution1": "det gjorde slet ikke ondt.",
     "label": 0,
@@ -344,7 +344,7 @@
     "id": 42
   },
   {
-    "prompt": "Jens Peters hjemmelavet suppe er brandvarm, og derfor kan det være en rigtig god ide at vendte et par minutter med at spise for ikke at",
+    "prompt": "Jens Peters hjemmelavet suppe er brandvarm, og derfor kan det være en rigtig god ide at vente et par minutter med at spise for ikke at",
     "solution0": "brænde sin tunge.",
     "solution1": "brænde sin hånd.",
     "label": 0,
@@ -360,7 +360,7 @@
     "id": 44
   },
   {
-    "prompt": "Lasse var til sidste skoledag for at samle karameller, men da han fik en karamel i hovedet blev han",
+    "prompt": "Lasse var til sidste skoledag for at samle karameller, men da han fik en karamel i hovedet, blev han",
     "solution0": "meget ked af det fordi det gjorde ondt.",
     "solution1": "meget glad fordi det gjorde ondt.",
     "label": 0,
@@ -369,14 +369,14 @@
   },
   {
     "prompt": "Når børnene banker på døren til fastelavn synger de ‘fastelavn er mit navn ...’ og får en masse",
-    "solution0": "slik",
-    "solution1": "bank",
+    "solution0": "slik.",
+    "solution1": "bank.",
     "label": 0,
     "n_words": 19,
     "id": 46
   },
   {
-    "prompt": "Familien var på vej hjem fra et besøg hos bedstemor, da deres bil snittede en varevogn på en landevej, og det gjorde at de endte i",
+    "prompt": "Familien var på vej hjem fra et besøg hos bedstemor, da deres bil snittede en varevogn på en landevej, og det gjorde, at de endte i",
     "solution0": "grøften.",
     "solution1": "butikken.",
     "n_words": 27,
@@ -439,7 +439,7 @@
     "id": 54
   },
   {
-    "prompt": "Hun blev rasende, da hun tabte tenniskampen, så hun smadrede ketcheren i jorden gentagne gange og den blev helt skæv. Den kan",
+    "prompt": "Hun blev rasende, da hun tabte tenniskampen, så hun smadrede ketcheren i jorden gentagne gange, og den blev helt skæv. Den kan",
     "solution0": "ikke fikses.",
     "solution1": "sagtens fikses.",
     "label": 0,
@@ -464,16 +464,16 @@
   },
   {
     "prompt": "For at undgå at man kan falde ud, skal en studentervogn have",
-    "solution0": "høje gelænder. Der sker dog stadig næsten årligt på landsplan.",
-    "solution1": "lave gelænder. Der sker dog stadig næsten årligt på landsplan.",
+    "solution0": "høje gelændere. Der sker dog stadig næsten årligt på landsplan.",
+    "solution1": "lave gelændere. Der sker dog stadig næsten årligt på landsplan.",
     "label": 0,
     "n_words": 22,
     "id": 58
   },
   {
     "prompt": "Hvis man er til fest og gerne vil have at ens kolde øl smager godt",
-    "solution0": "er det vigtigt at den ikke er rystet, inden man åbner den.",
-    "solution1": "er det vigtigt at den er rystet, inden man åbner den.",
+    "solution0": "er det vigtigt at den ikke er rystet inden man åbner den.",
+    "solution1": "er det vigtigt at den er rystet inden man åbner den.",
     "label": 0,
     "n_words": 27,
     "id": 59
@@ -487,7 +487,7 @@
     "id": 60
   },
   {
-    "prompt": "For at få det sidste aioli ud skal jeg",
+    "prompt": "For at få det sidste aioli ud, skal jeg",
     "solution0": "ryste og banke kraftigt på plastikdutten.",
     "solution1": "ryste og banke blidt på plastikdutten.",
     "n_words": 15,
@@ -511,8 +511,8 @@
   },
   {
     "prompt": "For at lave biksemad, skal man bruge løg, kogte kartofler, stegt kød",
-    "solution0": "og noget fedtstof til at stege det hele i fx smør eller margarine.",
-    "solution1": "og noget fedtstof til at stege det hele i fx smør eller vaseline.",
+    "solution0": "og noget fedtstof til at stege det hele i, fx smør eller margarine.",
+    "solution1": "og noget fedtstof til at stege det hele i, fx smør eller vaseline.",
     "label": 1,
     "n_words": 25,
     "id": 64
@@ -598,7 +598,7 @@
     "id": 74
   },
   {
-    "prompt": "Ude i haven står en sort balje på et bord. Jeg tager haveslangen for at hælde vand i baljen. Da jeg gør det så",
+    "prompt": "Ude i haven står en sort balje på et bord. Jeg tager haveslangen for at hælde vand i baljen. Da jeg gør det, så",
     "solution0": "løber vandet ned og bliver i baljen.",
     "solution1": "løber vandet ned og videre ud af baljen.",
     "label": 0,
@@ -646,9 +646,9 @@
     "id": 80
   },
   {
-    "prompt": "I en opskrift på vaniljekrans står der at man skal",
-    "solution0": "Putte dejen i en sprøjtepose, bage kagerne i 10-12 minutter og straks sprøjte dejen ud til kranse.",
-    "solution1": "Putte dejen i en sprøjtepose, straks sprøjte dejen ud til kranse og bage kagerne i 10-12 minutter.",
+    "prompt": "I en opskrift på vaniljekranse står der at man skal",
+    "solution0": "putte dejen i en sprøjtepose, bage kagerne i 10-12 minutter og straks sprøjte dejen ud til kranse.",
+    "solution1": "putte dejen i en sprøjtepose, straks sprøjte dejen ud til kranse og bage kagerne i 10-12 minutter.",
     "label": 1,
     "n_words": 27,
     "id": 81
@@ -710,11 +710,11 @@
     "id": 88
   },
   {
-    "prompt": "Inde i på sit kontor sidder Markus og læser op til eksamen. Han er rigtig sulten og tager derfor sin frokost op. Da han tager en bid af sit knækbrød",
+    "prompt": "Inde på sit kontor sidder Markus og læser op til eksamen. Han er rigtig sulten og tager derfor sin frokost op. Da han tager en bid af sit knækbrød",
     "solution0": "så knaser det.",
     "solution1": "så slubrer det.",
     "label": 0,
-    "n_words": 33,
+    "n_words": 32,
     "id": 89
   },
   {
@@ -798,7 +798,7 @@
     "id": 99
   },
   {
-    "prompt": "Da jeg var i gang med at dyrke yoga hjemme i stuen kom jeg til at slå hovedet ind i hylden med min monstrea",
+    "prompt": "Da jeg var i gang med at dyrke yoga hjemme i stuen, kom jeg til at slå hovedet ind i hylden med min monstrea",
     "solution0": "så den faldt ned og gik i stykker. Der er nu jord ud over det hele.",
     "solution1": "så den faldt ned og gik i stykker. Der er nu støv ud over det hele.",
     "label": 0,
