@@ -379,6 +379,7 @@
     "prompt": "Familien var på vej hjem fra et besøg hos bedstemor, da deres bil snittede en varevogn på en landevej, og det gjorde, at de endte i",
     "solution0": "grøften.",
     "solution1": "butikken.",
+    "label": 0,
     "n_words": 27,
     "id": 47
   },
@@ -490,6 +491,7 @@
     "prompt": "For at få det sidste aioli ud, skal jeg",
     "solution0": "ryste og banke kraftigt på plastikdutten.",
     "solution1": "ryste og banke blidt på plastikdutten.",
+    "label": 0,
     "n_words": 15,
     "id": 61
   },
@@ -812,7 +814,7 @@
     "label": 0,
     "n_words": 43,
     "id": 101
-  }
+  },
   {
     "prompt": "Signe er lige blevet student og har derfor fået en studenterhue. Hun sender den på runde blandt sine venner",
     "solution0": "så de alle sammen kan beundre den.",
@@ -821,5 +823,4 @@
     "n_words": 26,
     "id": 102
   }
-
 ]
