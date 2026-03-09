@@ -804,5 +804,13 @@
     "label": 0,
     "n_words": 40,
     "id": 100
+  },
+  {
+    "prompt": "Martha og Deniz elsker at spille Wii med deres venner. En dag blev de dog så sure over at tabe i Wii-sports til Ida og Hana, at de begge smed deres Wii-controlllere direkte ind i fjernsynet. Det gjorde, at ",
+    "solution0": "skærmen på fjernsynet flækkede.",
+    "solution1": "skærmen på fjernsynet rullede.",
+    "label": 0,
+    "n_words": 43,
+    "id": 101
   }
 ]
